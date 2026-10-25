@@ -1,0 +1,4 @@
+title: DishAdvisor
+description: Know what to order before you sit down.
+theme: jekyll-theme-primer
+exclude: [README.md]
