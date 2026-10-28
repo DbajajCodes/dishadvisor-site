@@ -5,7 +5,7 @@ permalink: /terms
 
 # DishAdvisor Terms of Service
 
-Effective date: October 25, 2026.
+Effective date: October 28, 2026.
 
 These Terms of Service ("Terms") are an agreement between you and **BAJAJTECHSOLUTIONZ LLC**, a
 Michigan limited liability company ("DishAdvisor", "we", "us"), and govern your use of the

@@ -5,7 +5,7 @@ permalink: /privacy
 
 # DishAdvisor Privacy Policy
 
-Effective date: October 25, 2026.
+Effective date: October 28, 2026.
 
 ## Who we are
 
