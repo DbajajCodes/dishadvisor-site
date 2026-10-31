@@ -10,6 +10,7 @@ not just the best-reviewed restaurants.
 
 - [Terms of Service](/terms)
 - [Privacy Policy](/privacy)
+- [Delete your account](/delete-account)
 
 Questions or support: [abhasetia.studio@gmail.com](mailto:abhasetia.studio@gmail.com)
 
